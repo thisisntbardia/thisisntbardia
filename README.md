@@ -1,5 +1,5 @@
-I'm a Software Engineer with 2 years of backend development experience, focused on building scalable, high-performance systems. I work with C++, C, Python, and technologies like FastAPI, Docker, PostgreSQL, MongoDB, and MQTT to deliver reliable solutions with 99.5% uptime.
+I’m a backend-focused Software Engineer who likes building systems that stay fast and stable as they scale. Most of my work is in Python (FastAPI, Flask, Django), often in microservice environments, with a lot of attention on performance and reliability.
 
-With a BSc in Software Engineering from Islamic Azad University, I’ve designed microservices, optimized databases, led real-time IoT projects for 10,000+ devices, and streamlined CI/CD pipelines. I write clean, testable code and thrive in Linux environments.
+I work hands-on with PostgreSQL and Oracle (PL/pgSQL / PL/SQL), and I use Redis and MongoDB when caching or high-volume data handling is needed. I also set up the delivery pipeline: Docker, CI/CD (GitHub Actions / GitLab CI), and Nginx on Debian/Ubuntu.
 
-Fluent in English and conversational in French, I’m driven, adaptable, and always looking for environments where I can learn, grow, and make an impact.
+When the project needs it, I ship end-to-end features too — including Flutter apps.
